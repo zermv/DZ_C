@@ -1,0 +1,15 @@
+/Users/user/Desktop/DZ/task_25/bin/Debug/net6.0/task_25
+/Users/user/Desktop/DZ/task_25/bin/Debug/net6.0/task_25.deps.json
+/Users/user/Desktop/DZ/task_25/bin/Debug/net6.0/task_25.runtimeconfig.json
+/Users/user/Desktop/DZ/task_25/bin/Debug/net6.0/task_25.dll
+/Users/user/Desktop/DZ/task_25/bin/Debug/net6.0/task_25.pdb
+/Users/user/Desktop/DZ/task_25/obj/Debug/net6.0/task_25.csproj.AssemblyReference.cache
+/Users/user/Desktop/DZ/task_25/obj/Debug/net6.0/task_25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/DZ/task_25/obj/Debug/net6.0/task_25.AssemblyInfoInputs.cache
+/Users/user/Desktop/DZ/task_25/obj/Debug/net6.0/task_25.AssemblyInfo.cs
+/Users/user/Desktop/DZ/task_25/obj/Debug/net6.0/task_25.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/DZ/task_25/obj/Debug/net6.0/task_25.dll
+/Users/user/Desktop/DZ/task_25/obj/Debug/net6.0/refint/task_25.dll
+/Users/user/Desktop/DZ/task_25/obj/Debug/net6.0/task_25.pdb
+/Users/user/Desktop/DZ/task_25/obj/Debug/net6.0/task_25.genruntimeconfig.cache
+/Users/user/Desktop/DZ/task_25/obj/Debug/net6.0/ref/task_25.dll
