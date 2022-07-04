@@ -1,0 +1,15 @@
+﻿double x1, y1, z1, x2, y2, z2, d;
+Console.WriteLine("Введите координату х первой точки");
+x1 = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("Введите координату y первой точки");
+y1 = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("Введите координату z первой точки");
+z1 = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("Введите координату x второй точки");
+x2 = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("Введите координату y второй точки");
+y2 = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("Введите координату z второй точки");
+z2 = Convert.ToDouble(Console.ReadLine());
+d = Math.Sqrt(Math.Pow((x2 - x1), 2) + Math.Pow((y2 - y1), 2) + Math.Pow((z2 - z1), 2));
+Console.WriteLine("Длина отрезка равна " + (d));
