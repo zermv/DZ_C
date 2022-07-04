@@ -1,0 +1,15 @@
+/Users/user/Desktop/DZ/task_19/bin/Debug/net6.0/task_19
+/Users/user/Desktop/DZ/task_19/bin/Debug/net6.0/task_19.deps.json
+/Users/user/Desktop/DZ/task_19/bin/Debug/net6.0/task_19.runtimeconfig.json
+/Users/user/Desktop/DZ/task_19/bin/Debug/net6.0/task_19.dll
+/Users/user/Desktop/DZ/task_19/bin/Debug/net6.0/task_19.pdb
+/Users/user/Desktop/DZ/task_19/obj/Debug/net6.0/task_19.csproj.AssemblyReference.cache
+/Users/user/Desktop/DZ/task_19/obj/Debug/net6.0/task_19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/DZ/task_19/obj/Debug/net6.0/task_19.AssemblyInfoInputs.cache
+/Users/user/Desktop/DZ/task_19/obj/Debug/net6.0/task_19.AssemblyInfo.cs
+/Users/user/Desktop/DZ/task_19/obj/Debug/net6.0/task_19.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/DZ/task_19/obj/Debug/net6.0/task_19.dll
+/Users/user/Desktop/DZ/task_19/obj/Debug/net6.0/refint/task_19.dll
+/Users/user/Desktop/DZ/task_19/obj/Debug/net6.0/task_19.pdb
+/Users/user/Desktop/DZ/task_19/obj/Debug/net6.0/task_19.genruntimeconfig.cache
+/Users/user/Desktop/DZ/task_19/obj/Debug/net6.0/ref/task_19.dll
