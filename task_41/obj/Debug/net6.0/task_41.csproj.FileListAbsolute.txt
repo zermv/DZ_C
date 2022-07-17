@@ -1,0 +1,15 @@
+/Users/user/Desktop/DZ/task_41/bin/Debug/net6.0/task_41
+/Users/user/Desktop/DZ/task_41/bin/Debug/net6.0/task_41.deps.json
+/Users/user/Desktop/DZ/task_41/bin/Debug/net6.0/task_41.runtimeconfig.json
+/Users/user/Desktop/DZ/task_41/bin/Debug/net6.0/task_41.dll
+/Users/user/Desktop/DZ/task_41/bin/Debug/net6.0/task_41.pdb
+/Users/user/Desktop/DZ/task_41/obj/Debug/net6.0/task_41.csproj.AssemblyReference.cache
+/Users/user/Desktop/DZ/task_41/obj/Debug/net6.0/task_41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/DZ/task_41/obj/Debug/net6.0/task_41.AssemblyInfoInputs.cache
+/Users/user/Desktop/DZ/task_41/obj/Debug/net6.0/task_41.AssemblyInfo.cs
+/Users/user/Desktop/DZ/task_41/obj/Debug/net6.0/task_41.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/DZ/task_41/obj/Debug/net6.0/task_41.dll
+/Users/user/Desktop/DZ/task_41/obj/Debug/net6.0/refint/task_41.dll
+/Users/user/Desktop/DZ/task_41/obj/Debug/net6.0/task_41.pdb
+/Users/user/Desktop/DZ/task_41/obj/Debug/net6.0/task_41.genruntimeconfig.cache
+/Users/user/Desktop/DZ/task_41/obj/Debug/net6.0/ref/task_41.dll
