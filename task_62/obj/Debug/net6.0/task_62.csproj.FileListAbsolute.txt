@@ -1,0 +1,15 @@
+/Users/user/Desktop/DZ/task_62/bin/Debug/net6.0/task_62
+/Users/user/Desktop/DZ/task_62/bin/Debug/net6.0/task_62.deps.json
+/Users/user/Desktop/DZ/task_62/bin/Debug/net6.0/task_62.runtimeconfig.json
+/Users/user/Desktop/DZ/task_62/bin/Debug/net6.0/task_62.dll
+/Users/user/Desktop/DZ/task_62/bin/Debug/net6.0/task_62.pdb
+/Users/user/Desktop/DZ/task_62/obj/Debug/net6.0/task_62.csproj.AssemblyReference.cache
+/Users/user/Desktop/DZ/task_62/obj/Debug/net6.0/task_62.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/DZ/task_62/obj/Debug/net6.0/task_62.AssemblyInfoInputs.cache
+/Users/user/Desktop/DZ/task_62/obj/Debug/net6.0/task_62.AssemblyInfo.cs
+/Users/user/Desktop/DZ/task_62/obj/Debug/net6.0/task_62.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/DZ/task_62/obj/Debug/net6.0/task_62.dll
+/Users/user/Desktop/DZ/task_62/obj/Debug/net6.0/refint/task_62.dll
+/Users/user/Desktop/DZ/task_62/obj/Debug/net6.0/task_62.pdb
+/Users/user/Desktop/DZ/task_62/obj/Debug/net6.0/task_62.genruntimeconfig.cache
+/Users/user/Desktop/DZ/task_62/obj/Debug/net6.0/ref/task_62.dll
